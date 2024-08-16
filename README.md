@@ -1,8 +1,8 @@
 # StudentmarksAnalysis
 A Data Analysis Project on Students marks
-<br/>
+<br>
 We used pandas to clean the dataset like handling null values and empty columns
-<br\>
+<br>
 we also used pandas functions like groupby and aggregate to help plot the graphs 
-<br\>
+<br>
 We used matplotlib and seaborn to visvalise the data and perform EDA to get the results and analysis
